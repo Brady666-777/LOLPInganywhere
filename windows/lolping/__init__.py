@@ -1,0 +1,1 @@
+"""LoLPing Windows desktop overlay."""

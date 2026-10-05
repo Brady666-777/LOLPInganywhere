@@ -22,7 +22,9 @@ Displays an 8-way radial ping wheel on your screen — outside the game, on your
 
 ## Download
 
-Grab the latest `LoLPing.exe` from the [Releases](https://github.com/Brady666-777/LOLPInganywhere/releases) page. No Python installation required.
+👉 **[Download LoLPing.exe (v1.0)](https://github.com/Brady666-777/LOLPInganywhere/releases/latest/download/LoLPing.exe)**
+
+No Python or installation required — just download and run. Windows 10/11 x64.
 
 ## Build from source
 
